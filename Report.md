@@ -46,7 +46,7 @@ Keys pressed:
 ```
 Summary:
 
-used two commands prioer in bash history using <up> <up> <enter> to run test.sh
+used two commands prior in bash history using <up> <up> <enter> to run test.sh
 
 ![Image](lab4commitpush.jpg)
 
